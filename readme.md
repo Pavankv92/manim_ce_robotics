@@ -6,6 +6,8 @@ This repository is based on [Manim Community Edition (ManimCE)](https://www.mani
 
 ## How to Use Manim Sideview in VS Code
 
+Manim Sideview integration is powered by [manim-sideview](https://github.com/Rickaym/manim-sideview) by Rickaym.
+
 ### 1. Check if Manim is in your PATH
 
 1. Open the integrated terminal in VS Code (press <kbd>Ctrl</kbd> + <kbd>`</kbd>).
